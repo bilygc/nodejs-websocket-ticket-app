@@ -15,6 +15,8 @@ cd to root directory and type
 6. You''ll see in the **others services desk screens** that the queue decreasing cause the tickets are being attended.  
 7. In the public screen you'll see the **order of tickets being attended** in each service desk and changing **in real-time**.  
 
+you can try it live [HERE](https://nodejs-websocket-ticket-app.herokuapp.com/)
+
 <em>NOTE: make sure to grant write access to the db/ directory</em>
 
 Enjoy!
